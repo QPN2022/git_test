@@ -1,1 +1,3 @@
 This is a test document to test commit messages.
+Testing
+This is a new change
